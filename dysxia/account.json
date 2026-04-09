@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Test User",
+        "email": "test@example.com",
+        "password": "pbkdf2:sha256:260000$examplehash..."
+    },
+    {
+        "name": "test user",
+        "email": "test@gmail.com",
+        "password": "scrypt:32768:8:1$r4FjN5nkebLGC0Ki$66e6f74ccd1a5cce1eb9715b16c2d8c770dcf48f1c295a87ebcffc522eef1e67db65a8410418cf74112ad3dd0cc47b47f79fd9a9fa51169b1658b8379ab86297"
+    },
+    {
+        "name": "test type",
+        "email": "testtype@gmail.com",
+        "password": "scrypt:32768:8:1$4bd6JlPb88rRkLgq$0c87becb0393c5965d931b1b1c50bbb0556101a7251cef439bdbc73f6d6246d2df6ce3fed09615f313d7b3f27c2e1fb8fb3235b37e04311be33f8b15ba2f8bd7"
+    },
+    {
+        "name": "tester",
+        "email": "tester@gmail.com",
+        "password": "scrypt:32768:8:1$N53s9vKidRpPvBwj$d6bdc484830d729ae923a81de02fa1ab90ccd2de60fd5511d2ef5023eaa1975f28f8893218c2a34a87b61cbac124e28ffbd610fe4741d11988e3e0521ab0eb7d"
+    },
+    {
+        "name": "tester1",
+        "email": "tester1@gmail.com",
+        "password": "scrypt:32768:8:1$kKk0Up1tXwf4XGdq$4288f6a3ee4d1c612652d8fc736fed202bce519f4d437b5d1c11a8d64dd51f60ab054e6332e178060a834835ec37d7fd19431e3e5adeeb2b50dfd4a045cfe588"
+    },
+    {
+        "name": "dev123",
+        "email": "dev@gmail.com",
+        "password": "scrypt:32768:8:1$UJ9ICrfO9NHt0TMo$aefe7567bb2abf3996f446fc4857caec29712217b277f87dc901b1ce3264b2d1263381004b130219a7107ff1a9ea6be4f2745c2dac15c181743f10eb57719bde"
+    },
+    {
+        "name": "Shravya",
+        "email": "Shravya@gmail.com",
+        "password": "scrypt:32768:8:1$xvJSnliFg8cQ1rtt$314c743c82a991d0309c432ab4e74e69520d48c095e842fbe2d022445fd1d5422ab503d8d054484f942a4c779d04104d24c8ecef62952208cc75042a772b7aca"
+    }
+]

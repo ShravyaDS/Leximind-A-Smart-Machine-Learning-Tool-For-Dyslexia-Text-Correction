@@ -1,0 +1,13 @@
+streamlit
+streamlit-folium
+folium
+requests
+torch
+transformers
+opencv-python
+Pillow
+pyspellchecker
+language-tool-python
+werkzeug
+beautifulsoup4
+lxml

@@ -1,0 +1,19 @@
+# Images
+*.jpg
+*.jpeg
+*.png
+
+# Database
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML models / data
+*.csv
+*.pkl
+*.h5
+
+# Environment
+.env
